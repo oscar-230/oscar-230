@@ -8,7 +8,7 @@
 </p>
 
 # 💫 About Me:
-🎓 Estudiante de Ingeniería de Sistemas enfocado en analítica y ciencia de datos.  <br>📊 Me especializo en el análisis, transformación y visualización de datos para generar insights y apoyar la toma de decisiones.  <br>🤖 Interesado en machine learning y deep learning, aplicando modelos predictivos a problemas reales.  <br>🚀 Apasionado por aprender constantemente y resolver problemas a través de los datos.
+🎓 Estudiante de Ingeniería de Sistemas en la Universidad del Valle, enfocado en analítica y ciencia de datos.  <br>📊 Me especializo en el análisis, transformación y visualización de datos para generar insights y apoyar la toma de decisiones.  <br>🤖 Interesado en machine learning y deep learning, aplicando modelos predictivos a problemas reales.  <br>🚀 Apasionado por aprender constantemente y resolver problemas a través de los datos.
 
 
 ## 🌐 Socials:
